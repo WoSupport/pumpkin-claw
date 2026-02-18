@@ -1,0 +1,11 @@
+*
+!.gitignore
+!openclaw.json
+!workspace/
+!workspace/AGENTS.md
+!workspace/HEARTBEAT.md
+!workspace/IDENTITY.md
+!workspace/MEMORY.md
+!workspace/SOUL.md
+!workspace/TOOLS.md
+!workspace/USER.md
