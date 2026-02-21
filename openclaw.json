@@ -23,9 +23,6 @@
         "primary": "openrouter/minimax/minimax-m2.5"
       },
       "models": {
-        "openrouter/auto": {
-          "alias": "OpenRouter"
-        },
         "openrouter/minimax/minimax-m2.5": {}
       },
       "workspace": "/home/jimmy/.openclaw/workspace",
