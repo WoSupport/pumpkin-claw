@@ -1,7 +1,7 @@
 {
   "meta": {
     "lastTouchedVersion": "2026.5.7",
-    "lastTouchedAt": "2026-05-12T05:05:07.097Z"
+    "lastTouchedAt": "2026-07-19T16:11:40.863Z"
   },
   "wizard": {
     "lastRunAt": "2026-05-12T05:03:35.272Z",
@@ -20,10 +20,10 @@
   "agents": {
     "defaults": {
       "model": {
-        "primary": "openrouter/moonshotai/kimi-k2.6"
+        "primary": "openrouter/moonshotai/kimi-k3"
       },
       "models": {
-        "openrouter/moonshotai/kimi-k2.6": {}
+        "openrouter/moonshotai/kimi-k3": {}
       },
       "workspace": "/home/jimmy/.openclaw/workspace",
       "compaction": {
@@ -43,7 +43,10 @@
   },
   "commands": {
     "native": "auto",
-    "nativeSkills": "auto"
+    "nativeSkills": "auto",
+    "ownerAllowFrom": [
+      "discord:647986911117443092"
+    ]
   },
   "hooks": {
     "internal": {
